@@ -15,7 +15,7 @@
 #define CATEGORY		"<key>category</key>"
 #define IMAGES			"<key>images</key>"
 
-#define FILENAME		"en.plist"
+#define FILENAME		"test.plist"
 #define DSTFILE			"WordData.lua"
 #define MAXSIZE			128
 
