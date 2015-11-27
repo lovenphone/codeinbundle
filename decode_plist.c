@@ -19,6 +19,7 @@
 #define DSTFILE			"WordData.lua"
 #define MAXSIZE			128
 
+
 // 去除字符串前后的空白
 static void trim(char *str)
 {
